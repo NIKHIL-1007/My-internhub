@@ -2,7 +2,7 @@
 
 ## Project info
 
-**URL**: https://intern-sparkle-dashboard.vercel.app/
+**URL**: https://my-internhub.vercel.app/
 
 ## How can I edit this code?
 
